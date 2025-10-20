@@ -1,7 +1,7 @@
 # Biomedical Data Science Capstone Project
 # Predicting Breast Cancer Diagnosis 
 # Dataset: UCI Breast Cancer Wisconsin (Diagnostic) 
-# Video: 
+# Video: https://youtu.be/5GprHnJrJYI 
 # Victoria Li 
 10/20/2025
 
